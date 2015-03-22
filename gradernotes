@@ -1,0 +1,9 @@
+'~' handling in getword.c - copy the home directory if the buffer is present, 
+                            else ignore the overflowing characters.
+
+Handling '&' in pipe      - I am showing the first process name and its PID in 
+                            square brackets '[ ]'.
+
+"I believe everything works perfectly under all conditions."
+
+- Shashank Tomar
